@@ -1,4 +1,5 @@
-# -DS1302_ARDUINO
+# MẠCH ĐỒNG HỒ
+
 Sử dụng module DS1302 kết hợp với Arduino và IC 74HC595 để hiển thị thời gian thực trên LED 7 đoạn (RTC)
 
 YÊU CẦU PHẦN CỨNG 
