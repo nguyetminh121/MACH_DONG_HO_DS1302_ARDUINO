@@ -1,5 +1,5 @@
 # -DS1302_ARDUINO
-Use module DS1302 combined with Arduino and IC 74HC595 to display real time on 7-segment LED (clock circuit)
+Sử dụng module DS1302 kết hợp với Arduino và IC 74HC595 để hiển thị thời gian thực trên LED 7 đoạn (RTC)
 
 YÊU CẦU PHẦN CỨNG 
 + Arduino Uno
