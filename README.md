@@ -10,7 +10,8 @@ YÊU CẦU PHẦN CỨNG
 + IC 74HC595
 
 SCHEMATIC
-![image](https://github.com/user-attachments/assets/a9934acd-59aa-49c0-aca7-334560e54399)
+![image](https://github.com/user-attachments/assets/19d530ff-92ff-4f46-b29c-8199a3822ed7)
+
 
 HƯỚNG DẪN SỬ DỤNG
 Theo như schematic, button thứ nhất khi nhấn vào sẽ tắt màn hình 4 led 7 đoạn. Nếu led 7 đoạn đang hiện thị giờ thì khi nhấn button thứ 2 sẽ chuyển sang ngày tháng và ngược lại.
